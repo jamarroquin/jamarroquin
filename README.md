@@ -5,7 +5,7 @@
 - 📫 You can reach me by
 	- phone: 210-336-9575
   	- email: marroquin_cota@outlook.com
-     - linkedin: https://www.linkedin.com/in/joshua-marroquin-8b02b0120
+        - linkedin: https://www.linkedin.com/in/joshua-marroquin-8b02b0120
 
             
 
